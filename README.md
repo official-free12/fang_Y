@@ -1,0 +1,6 @@
+# 房贷车贷申请信用佧申请资金周转,申请银行卡,额度申请代款,申请自助申请源码银行卡金卡
+
+演示：http://example.com/example.com/vod/play/id/94/<br>演示：http://example.com/example.com/vod/play/id/94/<br>案例：http://example.comexample.com/<br>特点：当前时间滚动信息，原创带后台管理方便，申请信息后台查看<br>大小：3M<br>example.com example.com。example.com，example.com<br>安装：上传源码到根目录，导入数据库，example.com 里面的库名，用户名，密码。安装完成。<br>后台：您的网址/m***/<br>example.com<br>在先申请源码<br>在先申请银行卡源码<br>可自己配置内容填写<br>源码完全没问题，一直用着<br>拍前须知：<br>1：本店所有源码均提供实例演示，所有功能与演示站相同，请测试之后选择购买。请确保您要购买的是演示站这款源码。<br>2：本店所售程序，不得使用于非法用途，不得违反国家法律，否则后果自负，不要购买！购买以后用作他用附带的一切法律责任后果都由购买者承担与本店无任何关系！<br>3：若需安装源码请提供宝塔面板，且安装服务仅包括提供源码+安装。<br>下单默认同意以上条款。<br>下载链接如果失效，请联系客服！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/t2vdF" style="color: red;">https://mega-file.org/t2vdF</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
